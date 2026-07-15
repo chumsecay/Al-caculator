@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calc_bg">#0E0E0E</color>
+    <color name="calc_display">#161616</color>
+    <color name="calc_eq_btn">#FF9F0A</color>
+    <color name="calc_fn_btn">#3A3A3C</color>
+    <color name="calc_num_btn">#2A2A2A</color>
+    <color name="calc_op_btn">#FF9F0A</color>
+    <color name="calc_text">#FFFFFF</color>
+    <color name="ic_launcher_background">#0E0E0E</color>
+    <string name="app_name">Calculator</string>
+    <style name="Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/calc_bg</item>
+        <item name="android:navigationBarColor">@color/calc_bg</item>
+        <item name="android:windowBackground">@color/calc_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

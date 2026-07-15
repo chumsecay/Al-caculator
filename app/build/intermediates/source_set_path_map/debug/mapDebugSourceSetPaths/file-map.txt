@@ -1,0 +1,64 @@
+com.aicalculator.calc.app-annotation-experimental-1.4.1-0 C:\Users\Quy set\.gradle\caches\8.9\transforms\0342437aaf1f4afae964d2b80acc92d0\transformed\annotation-experimental-1.4.1\res
+com.aicalculator.calc.app-coordinatorlayout-1.1.0-1 C:\Users\Quy set\.gradle\caches\8.9\transforms\0b7d45ef6d590c396030dd8b34319935\transformed\coordinatorlayout-1.1.0\res
+com.aicalculator.calc.app-recyclerview-1.1.0-2 C:\Users\Quy set\.gradle\caches\8.9\transforms\1c581e9992aa1089e83814d27d23c2eb\transformed\recyclerview-1.1.0\res
+com.aicalculator.calc.app-lifecycle-viewmodel-savedstate-2.8.7-3 C:\Users\Quy set\.gradle\caches\8.9\transforms\1d3e3cde9d373b27276c7ce18ed514d9\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.aicalculator.calc.app-fragment-1.3.6-4 C:\Users\Quy set\.gradle\caches\8.9\transforms\1fd5578be1d609cef3baac760b0ba6b7\transformed\fragment-1.3.6\res
+com.aicalculator.calc.app-material-icons-core-release-5 C:\Users\Quy set\.gradle\caches\8.9\transforms\21f7054c44a598a73a1fa0209ba4dec1\transformed\material-icons-core-release\res
+com.aicalculator.calc.app-emoji2-views-helper-1.3.0-6 C:\Users\Quy set\.gradle\caches\8.9\transforms\2567853304b26ef7abc84c54362bcf01\transformed\emoji2-views-helper-1.3.0\res
+com.aicalculator.calc.app-lifecycle-process-2.8.7-7 C:\Users\Quy set\.gradle\caches\8.9\transforms\29288b2658e0740a2dcb30731923e771\transformed\lifecycle-process-2.8.7\res
+com.aicalculator.calc.app-drawerlayout-1.1.1-8 C:\Users\Quy set\.gradle\caches\8.9\transforms\2b29ad9b46966f134b8627f588ca2542\transformed\drawerlayout-1.1.1\res
+com.aicalculator.calc.app-material-1.12.0-9 C:\Users\Quy set\.gradle\caches\8.9\transforms\2e16f49b093caa71437bd5d33c78f8be\transformed\material-1.12.0\res
+com.aicalculator.calc.app-savedstate-1.2.1-10 C:\Users\Quy set\.gradle\caches\8.9\transforms\3144929ca5c9a2e123090d64a83a8032\transformed\savedstate-1.2.1\res
+com.aicalculator.calc.app-ui-text-release-11 C:\Users\Quy set\.gradle\caches\8.9\transforms\3ee5fbbbd606d6f8a3cb876c5feee746\transformed\ui-text-release\res
+com.aicalculator.calc.app-customview-poolingcontainer-1.0.0-12 C:\Users\Quy set\.gradle\caches\8.9\transforms\48b0de7f60bcda4ece081427a02d5d72\transformed\customview-poolingcontainer-1.0.0\res
+com.aicalculator.calc.app-lifecycle-runtime-release-13 C:\Users\Quy set\.gradle\caches\8.9\transforms\4c4cb1bae4afae1037718d331d968a59\transformed\lifecycle-runtime-release\res
+com.aicalculator.calc.app-animation-release-14 C:\Users\Quy set\.gradle\caches\8.9\transforms\4cf0ac9790457eac9890acbdf12c764b\transformed\animation-release\res
+com.aicalculator.calc.app-constraintlayout-2.0.1-15 C:\Users\Quy set\.gradle\caches\8.9\transforms\4ed4d82f4c87d87ee2facfdf21bb3050\transformed\constraintlayout-2.0.1\res
+com.aicalculator.calc.app-viewpager2-1.0.0-16 C:\Users\Quy set\.gradle\caches\8.9\transforms\50d76e571b9813aa760e1de8fb2e10cb\transformed\viewpager2-1.0.0\res
+com.aicalculator.calc.app-activity-ktx-1.9.3-17 C:\Users\Quy set\.gradle\caches\8.9\transforms\5ef0d71975b8b079c4e5f35779b4f2ea\transformed\activity-ktx-1.9.3\res
+com.aicalculator.calc.app-lifecycle-viewmodel-compose-release-18 C:\Users\Quy set\.gradle\caches\8.9\transforms\60e3b0056ba16deaaf8fd042d6b078b4\transformed\lifecycle-viewmodel-compose-release\res
+com.aicalculator.calc.app-ui-tooling-data-release-19 C:\Users\Quy set\.gradle\caches\8.9\transforms\6670b8e401660432d176433d88fe8c70\transformed\ui-tooling-data-release\res
+com.aicalculator.calc.app-appcompat-1.6.1-20 C:\Users\Quy set\.gradle\caches\8.9\transforms\66e1452d1b8ed0b04cbcce1783bdef0d\transformed\appcompat-1.6.1\res
+com.aicalculator.calc.app-startup-runtime-1.1.1-21 C:\Users\Quy set\.gradle\caches\8.9\transforms\6adfecc4d719dc11c309a0b7f205bcbf\transformed\startup-runtime-1.1.1\res
+com.aicalculator.calc.app-runtime-saveable-release-22 C:\Users\Quy set\.gradle\caches\8.9\transforms\6f6d4cfa49df98f631c46fec890ef1ce\transformed\runtime-saveable-release\res
+com.aicalculator.calc.app-lifecycle-livedata-core-ktx-2.8.7-23 C:\Users\Quy set\.gradle\caches\8.9\transforms\721b50f6092717660f9ca23ec0442cdd\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.aicalculator.calc.app-animation-core-release-24 C:\Users\Quy set\.gradle\caches\8.9\transforms\7a292d4b0030ebaf2b985ee08bbd0a85\transformed\animation-core-release\res
+com.aicalculator.calc.app-graphics-path-1.0.1-25 C:\Users\Quy set\.gradle\caches\8.9\transforms\7db0d70563194696de6f82c2d9ea6929\transformed\graphics-path-1.0.1\res
+com.aicalculator.calc.app-core-1.15.0-26 C:\Users\Quy set\.gradle\caches\8.9\transforms\7fa21032ae656bd5ad6ed8257e64d8ee\transformed\core-1.15.0\res
+com.aicalculator.calc.app-lifecycle-viewmodel-release-27 C:\Users\Quy set\.gradle\caches\8.9\transforms\7fe709bcedc237eed7fd4dda896c4b7f\transformed\lifecycle-viewmodel-release\res
+com.aicalculator.calc.app-material-release-28 C:\Users\Quy set\.gradle\caches\8.9\transforms\8d6c5b83728f5cfabbe4e324cf6ef1da\transformed\material-release\res
+com.aicalculator.calc.app-appcompat-resources-1.6.1-29 C:\Users\Quy set\.gradle\caches\8.9\transforms\98fc9cef905e34992c1e1fa13acdcdf9\transformed\appcompat-resources-1.6.1\res
+com.aicalculator.calc.app-lifecycle-runtime-compose-release-30 C:\Users\Quy set\.gradle\caches\8.9\transforms\9bd86cb3febf4d5fee6455675c138e60\transformed\lifecycle-runtime-compose-release\res
+com.aicalculator.calc.app-material3-release-31 C:\Users\Quy set\.gradle\caches\8.9\transforms\9d9e132e835750aa1562444734fb05e8\transformed\material3-release\res
+com.aicalculator.calc.app-lifecycle-livedata-2.8.7-32 C:\Users\Quy set\.gradle\caches\8.9\transforms\a2f23db62a6c290097c20aa02afe9750\transformed\lifecycle-livedata-2.8.7\res
+com.aicalculator.calc.app-material-ripple-release-33 C:\Users\Quy set\.gradle\caches\8.9\transforms\a3751b4f3a9f5bd096e869aa34be3427\transformed\material-ripple-release\res
+com.aicalculator.calc.app-lifecycle-livedata-core-2.8.7-34 C:\Users\Quy set\.gradle\caches\8.9\transforms\a7908a40222632801a829216531b5b96\transformed\lifecycle-livedata-core-2.8.7\res
+com.aicalculator.calc.app-core-runtime-2.2.0-35 C:\Users\Quy set\.gradle\caches\8.9\transforms\aafb8ca295fbd85a7613deaefba214c6\transformed\core-runtime-2.2.0\res
+com.aicalculator.calc.app-foundation-release-36 C:\Users\Quy set\.gradle\caches\8.9\transforms\ab99b7a318d534890228f8810ed10d29\transformed\foundation-release\res
+com.aicalculator.calc.app-foundation-layout-release-37 C:\Users\Quy set\.gradle\caches\8.9\transforms\ac107a185fea80f0d9143eee9b595c67\transformed\foundation-layout-release\res
+com.aicalculator.calc.app-ui-release-38 C:\Users\Quy set\.gradle\caches\8.9\transforms\b1d0ce8b09cb053d78d0ebc7adfff2c3\transformed\ui-release\res
+com.aicalculator.calc.app-ui-tooling-release-39 C:\Users\Quy set\.gradle\caches\8.9\transforms\bf00acae5a8dfdc9fe28bb7795360280\transformed\ui-tooling-release\res
+com.aicalculator.calc.app-ui-unit-release-40 C:\Users\Quy set\.gradle\caches\8.9\transforms\c6a723bf56b20af51cab64a0a140a237\transformed\ui-unit-release\res
+com.aicalculator.calc.app-ui-geometry-release-41 C:\Users\Quy set\.gradle\caches\8.9\transforms\cd9872a37e3e0b2baaa31dd0c347752e\transformed\ui-geometry-release\res
+com.aicalculator.calc.app-tracing-1.2.0-42 C:\Users\Quy set\.gradle\caches\8.9\transforms\d10c588555a2c563998610c18eaf4aa8\transformed\tracing-1.2.0\res
+com.aicalculator.calc.app-ui-util-release-43 C:\Users\Quy set\.gradle\caches\8.9\transforms\d308ac99911b725f56683574365d00f4\transformed\ui-util-release\res
+com.aicalculator.calc.app-ui-graphics-release-44 C:\Users\Quy set\.gradle\caches\8.9\transforms\d7da16760cabdd355ead1cfa042e9102\transformed\ui-graphics-release\res
+com.aicalculator.calc.app-activity-compose-1.9.3-45 C:\Users\Quy set\.gradle\caches\8.9\transforms\e370887fd05cbf10ce93a53fbb3d38c1\transformed\activity-compose-1.9.3\res
+com.aicalculator.calc.app-core-ktx-1.15.0-46 C:\Users\Quy set\.gradle\caches\8.9\transforms\e6ad1c3baecb056ebbc5c286dd2e7722\transformed\core-ktx-1.15.0\res
+com.aicalculator.calc.app-runtime-release-47 C:\Users\Quy set\.gradle\caches\8.9\transforms\e7b58fec03ee9b95d8e7658d8a197f00\transformed\runtime-release\res
+com.aicalculator.calc.app-emoji2-1.3.0-48 C:\Users\Quy set\.gradle\caches\8.9\transforms\e814af84745fb7342224e6535c67aa13\transformed\emoji2-1.3.0\res
+com.aicalculator.calc.app-cardview-1.0.0-49 C:\Users\Quy set\.gradle\caches\8.9\transforms\e89e6f6ea08edaeed1b05817d296ba65\transformed\cardview-1.0.0\res
+com.aicalculator.calc.app-lifecycle-runtime-ktx-release-50 C:\Users\Quy set\.gradle\caches\8.9\transforms\eaedb11cb16ae763bff6138bdb3f0e6d\transformed\lifecycle-runtime-ktx-release\res
+com.aicalculator.calc.app-savedstate-ktx-1.2.1-51 C:\Users\Quy set\.gradle\caches\8.9\transforms\ece54dfdd0f8d7ee179dacdd31c42ea5\transformed\savedstate-ktx-1.2.1\res
+com.aicalculator.calc.app-lifecycle-viewmodel-ktx-2.8.7-52 C:\Users\Quy set\.gradle\caches\8.9\transforms\ef793783dc33ad11585affb24b2ac89e\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.aicalculator.calc.app-profileinstaller-1.3.1-53 C:\Users\Quy set\.gradle\caches\8.9\transforms\f258b2d726dabccebf0dbbbbe39c2da5\transformed\profileinstaller-1.3.1\res
+com.aicalculator.calc.app-activity-1.9.3-54 C:\Users\Quy set\.gradle\caches\8.9\transforms\fb951f3dc829de11903db2576007a7d7\transformed\activity-1.9.3\res
+com.aicalculator.calc.app-ui-tooling-preview-release-55 C:\Users\Quy set\.gradle\caches\8.9\transforms\fd043743759c85737b214d6af1f82ebd\transformed\ui-tooling-preview-release\res
+com.aicalculator.calc.app-transition-1.5.0-56 C:\Users\Quy set\.gradle\caches\8.9\transforms\ffd758014659dcf0eb817358aa47219a\transformed\transition-1.5.0\res
+com.aicalculator.calc.app-pngs-57 C:\Users\Quy set\Documents\Ai calculator\app\build\generated\res\pngs\debug
+com.aicalculator.calc.app-resValues-58 C:\Users\Quy set\Documents\Ai calculator\app\build\generated\res\resValues\debug
+com.aicalculator.calc.app-packageDebugResources-59 C:\Users\Quy set\Documents\Ai calculator\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.aicalculator.calc.app-packageDebugResources-60 C:\Users\Quy set\Documents\Ai calculator\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.aicalculator.calc.app-debug-61 C:\Users\Quy set\Documents\Ai calculator\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.aicalculator.calc.app-debug-62 C:\Users\Quy set\Documents\Ai calculator\app\src\debug\res
+com.aicalculator.calc.app-main-63 C:\Users\Quy set\Documents\Ai calculator\app\src\main\res

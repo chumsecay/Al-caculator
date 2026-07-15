@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aicalculator.calc.CalculatorEngineTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2026-07-15T14:26:22" hostname="BO-PC" time="0.069">
+  <properties/>
+  <testcase name="subtract" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.022"/>
+  <testcase name="divideByZero_setsError" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="add_twoNumbers" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="divide_clean" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.001"/>
+  <testcase name="clear_fullReset" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="digitAfterEquals_startsFresh" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="equalsNoPending_redisplay" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.001"/>
+  <testcase name="backspaceOnResult_resetsToZero" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="repeatedEquals_noConstantOp" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="toggleSign" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.006"/>
+  <testcase name="operatorAfterEquals_continuesFromResult" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="expressionLine_showsPending" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="clearEntry_keepsPending" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.001"/>
+  <testcase name="percent_standalone" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="chain_immediateExecution" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="percent_ofLeftOperand" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.001"/>
+  <testcase name="leadingZeros_collapsed" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="multiply" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="hugeResult_noCrash" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.03"/>
+  <testcase name="digitEntry_buildsNumber" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="toggleSignOnResult_editable" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.001"/>
+  <testcase name="backspace_deletesLast" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.001"/>
+  <testcase name="operatorAfterOperator_replaces" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="decimalAfterResult_startsFractional" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <testcase name="decimal_appendsOnce" classname="com.aicalculator.calc.CalculatorEngineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

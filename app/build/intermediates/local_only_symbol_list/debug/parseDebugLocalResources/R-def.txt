@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color calc_bg
+color calc_display
+color calc_eq_btn
+color calc_fn_btn
+color calc_num_btn
+color calc_op_btn
+color calc_text
+color ic_launcher_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Calculator
+xml backup_rules
+xml data_extraction_rules

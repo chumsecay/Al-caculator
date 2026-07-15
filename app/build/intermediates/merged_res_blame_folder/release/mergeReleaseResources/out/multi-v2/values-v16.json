@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aicalculator.calc.app-mergeReleaseResources-56:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Quy set\\.gradle\\caches\\8.9\\transforms\\66e1452d1b8ed0b04cbcce1783bdef0d\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

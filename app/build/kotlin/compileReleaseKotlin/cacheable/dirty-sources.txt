@@ -1,0 +1,10 @@
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\calculator\CalculatorAction.kt
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\ui\theme\Theme.kt
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\MainActivity.kt
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\ui\theme\Color.kt
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\ui\CalculatorScreen.kt
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\calculator\CalculatorEngine.kt
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\calculator\CalculatorState.kt
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\ui\components\CalcButton.kt
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\ui\theme\Type.kt
+C:\Users\Quy set\Documents\Ai calculator\app\src\main\java\com\aicalculator\calc\CalculatorViewModel.kt
